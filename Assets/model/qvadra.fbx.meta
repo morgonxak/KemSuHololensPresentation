@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 797b6b5a4a344c247805fd04ebcea533
+timeCreated: 1512992230
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: coil_2_9 main_motor_prop1
+    100002: done_body
+    100004: drone_bands
+    100006: drone_batt_pack
+    100008: drone_batt_pack_clip
+    100010: drone_rt_supportlegs leg_right
+    100012: left_foot_a leg_left
+    100014: leg_left drone_lt_supportlegs
+    100016: leg_left left_foot_b
+    100018: leg_right right_foot_a
+    100020: leg_right right_foot_b
+    100022: main_motor_prop1 coil_2_10
+    100024: main_motor_prop1 coil_2_11
+    100026: main_motor_prop1 coil_2_12
+    100028: main_motor_prop1 coil_2_13
+    100030: main_motor_prop1 coil_2_8
+    100032: main_motor_prop1 coil_rod
+    100034: main_motor_prop1 pHelix1
+    100036: main_motor_prop1 pHelix1_MeshPart0
+    100038: main_motor_prop1 pHelix1_MeshPart1
+    100040: main_motor_prop1 pHelix2
+    100042: main_motor_prop1 pHelix2_MeshPart0
+    100044: main_motor_prop1 pHelix2_MeshPart1
+    100046: main_motor_prop1 pHelix3
+    100048: main_motor_prop1 pHelix3_MeshPart0
+    100050: main_motor_prop1 pHelix3_MeshPart1
+    100052: main_motor_prop1 pHelix4
+    100054: main_motor_prop1 pHelix4_MeshPart0
+    100056: main_motor_prop1 pHelix4_MeshPart1
+    100058: main_motor_prop1 pHelix5
+    100060: main_motor_prop1 pHelix5_MeshPart0
+    100062: main_motor_prop1 pHelix5_MeshPart1
+    100064: main_motor_prop1 polySurface1
+    100066: main_motor_prop1 polySurface2
+    100068: main_motor_prop1 polySurface4
+    100070: main_motor_prop1 polySurface6
+    100072: main_motor_prop2 coil_2_10
+    100074: main_motor_prop2 coil_2_11
+    100076: main_motor_prop2 coil_2_12
+    100078: main_motor_prop2 coil_2_13
+    100080: main_motor_prop2 coil_2_8
+    100082: main_motor_prop2 coil_2_9
+    100084: main_motor_prop2 coil_rod
+    100086: main_motor_prop2 pHelix2
+    100088: main_motor_prop2 pHelix2_MeshPart0
+    100090: main_motor_prop2 pHelix2_MeshPart1
+    100092: main_motor_prop2 pHelix3
+    100094: main_motor_prop2 pHelix3_MeshPart0
+    100096: main_motor_prop2 pHelix3_MeshPart1
+    100098: main_motor_prop2 pHelix4
+    100100: main_motor_prop2 pHelix4_MeshPart0
+    100102: main_motor_prop2 pHelix4_MeshPart1
+    100104: main_motor_prop2 pHelix5
+    100106: main_motor_prop2 pHelix5_MeshPart0
+    100108: main_motor_prop2 pHelix5_MeshPart1
+    100110: main_motor_prop2 polySurface1
+    100112: main_motor_prop2 polySurface2
+    100114: main_motor_prop2 polySurface4
+    100116: main_motor_prop2 polySurface6
+    100118: main_motor_prop3 coil_2_10
+    100120: main_motor_prop3 coil_2_11
+    100122: main_motor_prop3 coil_2_12
+    100124: main_motor_prop3 coil_2_13
+    100126: main_motor_prop3 coil_2_14
+    100128: main_motor_prop3 coil_2_15
+    100130: main_motor_prop3 coil_2_16
+    100132: main_motor_prop3 coil_2_17
+    100134: main_motor_prop3 coil_2_18
+    100136: main_motor_prop3 coil_2_19
+    100138: main_motor_prop3 coil_2_8
+    100140: main_motor_prop3 coil_2_9
+    100142: main_motor_prop3 coil_rod
+    100144: main_motor_prop3 coil_rod1
+    100146: main_motor_prop3 pHelix1
+    100148: main_motor_prop3 pHelix10
+    100150: main_motor_prop3 pHelix10_MeshPart0
+    100152: main_motor_prop3 pHelix10_MeshPart1
+    100154: main_motor_prop3 pHelix1_MeshPart0
+    100156: main_motor_prop3 pHelix1_MeshPart1
+    100158: main_motor_prop3 pHelix2
+    100160: main_motor_prop3 pHelix2_MeshPart0
+    100162: main_motor_prop3 pHelix2_MeshPart1
+    100164: main_motor_prop3 pHelix3
+    100166: main_motor_prop3 pHelix3_MeshPart0
+    100168: main_motor_prop3 pHelix3_MeshPart1
+    100170: main_motor_prop3 pHelix4
+    100172: main_motor_prop3 pHelix4_MeshPart0
+    100174: main_motor_prop3 pHelix4_MeshPart1
+    100176: main_motor_prop3 pHelix5
+    100178: main_motor_prop3 pHelix5_MeshPart0
+    100180: main_motor_prop3 pHelix5_MeshPart1
+    100182: main_motor_prop3 pHelix6
+    100184: main_motor_prop3 pHelix6_MeshPart0
+    100186: main_motor_prop3 pHelix6_MeshPart1
+    100188: main_motor_prop3 pHelix7
+    100190: main_motor_prop3 pHelix7_MeshPart0
+    100192: main_motor_prop3 pHelix7_MeshPart1
+    100194: main_motor_prop3 pHelix8
+    100196: main_motor_prop3 pHelix8_MeshPart0
+    100198: main_motor_prop3 pHelix8_MeshPart1
+    100200: main_motor_prop3 polySurface1
+    100202: main_motor_prop3 polySurface10
+    100204: main_motor_prop3 polySurface2
+    100206: main_motor_prop3 polySurface4
+    100208: main_motor_prop3 polySurface6
+    100210: main_motor_prop3 polySurface7
+    100212: main_motor_prop3 polySurface8
+    100214: main_motor_prop3 polySurface9
+    100216: pHelix1 main_motor_prop2
+    100218: pHelix1 main_motor_prop2_MeshPart0
+    100220: pHelix1 main_motor_prop2_MeshPart1
+    100222: pHelix9 main_motor_prop3
+    100224: pHelix9 main_motor_prop3_MeshPart0
+    100226: pHelix9 main_motor_prop3_MeshPart1
+    100228: //RootNode
+    400000: coil_2_9 main_motor_prop1
+    400002: done_body
+    400004: drone_bands
+    400006: drone_batt_pack
+    400008: drone_batt_pack_clip
+    400010: drone_rt_supportlegs leg_right
+    400012: left_foot_a leg_left
+    400014: leg_left drone_lt_supportlegs
+    400016: leg_left left_foot_b
+    400018: leg_right right_foot_a
+    400020: leg_right right_foot_b
+    400022: main_motor_prop1 coil_2_10
+    400024: main_motor_prop1 coil_2_11
+    400026: main_motor_prop1 coil_2_12
+    400028: main_motor_prop1 coil_2_13
+    400030: main_motor_prop1 coil_2_8
+    400032: main_motor_prop1 coil_rod
+    400034: main_motor_prop1 pHelix1
+    400036: main_motor_prop1 pHelix1_MeshPart0
+    400038: main_motor_prop1 pHelix1_MeshPart1
+    400040: main_motor_prop1 pHelix2
+    400042: main_motor_prop1 pHelix2_MeshPart0
+    400044: main_motor_prop1 pHelix2_MeshPart1
+    400046: main_motor_prop1 pHelix3
+    400048: main_motor_prop1 pHelix3_MeshPart0
+    400050: main_motor_prop1 pHelix3_MeshPart1
+    400052: main_motor_prop1 pHelix4
+    400054: main_motor_prop1 pHelix4_MeshPart0
+    400056: main_motor_prop1 pHelix4_MeshPart1
+    400058: main_motor_prop1 pHelix5
+    400060: main_motor_prop1 pHelix5_MeshPart0
+    400062: main_motor_prop1 pHelix5_MeshPart1
+    400064: main_motor_prop1 polySurface1
+    400066: main_motor_prop1 polySurface2
+    400068: main_motor_prop1 polySurface4
+    400070: main_motor_prop1 polySurface6
+    400072: main_motor_prop2 coil_2_10
+    400074: main_motor_prop2 coil_2_11
+    400076: main_motor_prop2 coil_2_12
+    400078: main_motor_prop2 coil_2_13
+    400080: main_motor_prop2 coil_2_8
+    400082: main_motor_prop2 coil_2_9
+    400084: main_motor_prop2 coil_rod
+    400086: main_motor_prop2 pHelix2
+    400088: main_motor_prop2 pHelix2_MeshPart0
+    400090: main_motor_prop2 pHelix2_MeshPart1
+    400092: main_motor_prop2 pHelix3
+    400094: main_motor_prop2 pHelix3_MeshPart0
+    400096: main_motor_prop2 pHelix3_MeshPart1
+    400098: main_motor_prop2 pHelix4
+    400100: main_motor_prop2 pHelix4_MeshPart0
+    400102: main_motor_prop2 pHelix4_MeshPart1
+    400104: main_motor_prop2 pHelix5
+    400106: main_motor_prop2 pHelix5_MeshPart0
+    400108: main_motor_prop2 pHelix5_MeshPart1
+    400110: main_motor_prop2 polySurface1
+    400112: main_motor_prop2 polySurface2
+    400114: main_motor_prop2 polySurface4
+    400116: main_motor_prop2 polySurface6
+    400118: main_motor_prop3 coil_2_10
+    400120: main_motor_prop3 coil_2_11
+    400122: main_motor_prop3 coil_2_12
+    400124: main_motor_prop3 coil_2_13
+    400126: main_motor_prop3 coil_2_14
+    400128: main_motor_prop3 coil_2_15
+    400130: main_motor_prop3 coil_2_16
+    400132: main_motor_prop3 coil_2_17
+    400134: main_motor_prop3 coil_2_18
+    400136: main_motor_prop3 coil_2_19
+    400138: main_motor_prop3 coil_2_8
+    400140: main_motor_prop3 coil_2_9
+    400142: main_motor_prop3 coil_rod
+    400144: main_motor_prop3 coil_rod1
+    400146: main_motor_prop3 pHelix1
+    400148: main_motor_prop3 pHelix10
+    400150: main_motor_prop3 pHelix10_MeshPart0
+    400152: main_motor_prop3 pHelix10_MeshPart1
+    400154: main_motor_prop3 pHelix1_MeshPart0
+    400156: main_motor_prop3 pHelix1_MeshPart1
+    400158: main_motor_prop3 pHelix2
+    400160: main_motor_prop3 pHelix2_MeshPart0
+    400162: main_motor_prop3 pHelix2_MeshPart1
+    400164: main_motor_prop3 pHelix3
+    400166: main_motor_prop3 pHelix3_MeshPart0
+    400168: main_motor_prop3 pHelix3_MeshPart1
+    400170: main_motor_prop3 pHelix4
+    400172: main_motor_prop3 pHelix4_MeshPart0
+    400174: main_motor_prop3 pHelix4_MeshPart1
+    400176: main_motor_prop3 pHelix5
+    400178: main_motor_prop3 pHelix5_MeshPart0
+    400180: main_motor_prop3 pHelix5_MeshPart1
+    400182: main_motor_prop3 pHelix6
+    400184: main_motor_prop3 pHelix6_MeshPart0
+    400186: main_motor_prop3 pHelix6_MeshPart1
+    400188: main_motor_prop3 pHelix7
+    400190: main_motor_prop3 pHelix7_MeshPart0
+    400192: main_motor_prop3 pHelix7_MeshPart1
+    400194: main_motor_prop3 pHelix8
+    400196: main_motor_prop3 pHelix8_MeshPart0
+    400198: main_motor_prop3 pHelix8_MeshPart1
+    400200: main_motor_prop3 polySurface1
+    400202: main_motor_prop3 polySurface10
+    400204: main_motor_prop3 polySurface2
+    400206: main_motor_prop3 polySurface4
+    400208: main_motor_prop3 polySurface6
+    400210: main_motor_prop3 polySurface7
+    400212: main_motor_prop3 polySurface8
+    400214: main_motor_prop3 polySurface9
+    400216: pHelix1 main_motor_prop2
+    400218: pHelix1 main_motor_prop2_MeshPart0
+    400220: pHelix1 main_motor_prop2_MeshPart1
+    400222: pHelix9 main_motor_prop3
+    400224: pHelix9 main_motor_prop3_MeshPart0
+    400226: pHelix9 main_motor_prop3_MeshPart1
+    400228: //RootNode
+    2300000: coil_2_9 main_motor_prop1
+    2300002: done_body
+    2300004: drone_bands
+    2300006: drone_batt_pack
+    2300008: drone_batt_pack_clip
+    2300010: drone_rt_supportlegs leg_right
+    2300012: left_foot_a leg_left
+    2300014: leg_left drone_lt_supportlegs
+    2300016: leg_left left_foot_b
+    2300018: leg_right right_foot_a
+    2300020: leg_right right_foot_b
+    2300022: main_motor_prop1 coil_2_10
+    2300024: main_motor_prop1 coil_2_11
+    2300026: main_motor_prop1 coil_2_12
+    2300028: main_motor_prop1 coil_2_13
+    2300030: main_motor_prop1 coil_2_8
+    2300032: main_motor_prop1 coil_rod
+    2300034: main_motor_prop1 pHelix1_MeshPart0
+    2300036: main_motor_prop1 pHelix1_MeshPart1
+    2300038: main_motor_prop1 pHelix2_MeshPart0
+    2300040: main_motor_prop1 pHelix2_MeshPart1
+    2300042: main_motor_prop1 pHelix3_MeshPart0
+    2300044: main_motor_prop1 pHelix3_MeshPart1
+    2300046: main_motor_prop1 pHelix4_MeshPart0
+    2300048: main_motor_prop1 pHelix4_MeshPart1
+    2300050: main_motor_prop1 pHelix5_MeshPart0
+    2300052: main_motor_prop1 pHelix5_MeshPart1
+    2300054: main_motor_prop1 polySurface1
+    2300056: main_motor_prop1 polySurface2
+    2300058: main_motor_prop1 polySurface4
+    2300060: main_motor_prop1 polySurface6
+    2300062: main_motor_prop2 coil_2_10
+    2300064: main_motor_prop2 coil_2_11
+    2300066: main_motor_prop2 coil_2_12
+    2300068: main_motor_prop2 coil_2_13
+    2300070: main_motor_prop2 coil_2_8
+    2300072: main_motor_prop2 coil_2_9
+    2300074: main_motor_prop2 coil_rod
+    2300076: main_motor_prop2 pHelix2_MeshPart0
+    2300078: main_motor_prop2 pHelix2_MeshPart1
+    2300080: main_motor_prop2 pHelix3_MeshPart0
+    2300082: main_motor_prop2 pHelix3_MeshPart1
+    2300084: main_motor_prop2 pHelix4_MeshPart0
+    2300086: main_motor_prop2 pHelix4_MeshPart1
+    2300088: main_motor_prop2 pHelix5_MeshPart0
+    2300090: main_motor_prop2 pHelix5_MeshPart1
+    2300092: main_motor_prop2 polySurface1
+    2300094: main_motor_prop2 polySurface2
+    2300096: main_motor_prop2 polySurface4
+    2300098: main_motor_prop2 polySurface6
+    2300100: main_motor_prop3 coil_2_10
+    2300102: main_motor_prop3 coil_2_11
+    2300104: main_motor_prop3 coil_2_12
+    2300106: main_motor_prop3 coil_2_13
+    2300108: main_motor_prop3 coil_2_14
+    2300110: main_motor_prop3 coil_2_15
+    2300112: main_motor_prop3 coil_2_16
+    2300114: main_motor_prop3 coil_2_17
+    2300116: main_motor_prop3 coil_2_18
+    2300118: main_motor_prop3 coil_2_19
+    2300120: main_motor_prop3 coil_2_8
+    2300122: main_motor_prop3 coil_2_9
+    2300124: main_motor_prop3 coil_rod
+    2300126: main_motor_prop3 coil_rod1
+    2300128: main_motor_prop3 pHelix10_MeshPart0
+    2300130: main_motor_prop3 pHelix10_MeshPart1
+    2300132: main_motor_prop3 pHelix1_MeshPart0
+    2300134: main_motor_prop3 pHelix1_MeshPart1
+    2300136: main_motor_prop3 pHelix2_MeshPart0
+    2300138: main_motor_prop3 pHelix2_MeshPart1
+    2300140: main_motor_prop3 pHelix3_MeshPart0
+    2300142: main_motor_prop3 pHelix3_MeshPart1
+    2300144: main_motor_prop3 pHelix4_MeshPart0
+    2300146: main_motor_prop3 pHelix4_MeshPart1
+    2300148: main_motor_prop3 pHelix5_MeshPart0
+    2300150: main_motor_prop3 pHelix5_MeshPart1
+    2300152: main_motor_prop3 pHelix6_MeshPart0
+    2300154: main_motor_prop3 pHelix6_MeshPart1
+    2300156: main_motor_prop3 pHelix7_MeshPart0
+    2300158: main_motor_prop3 pHelix7_MeshPart1
+    2300160: main_motor_prop3 pHelix8_MeshPart0
+    2300162: main_motor_prop3 pHelix8_MeshPart1
+    2300164: main_motor_prop3 polySurface1
+    2300166: main_motor_prop3 polySurface10
+    2300168: main_motor_prop3 polySurface2
+    2300170: main_motor_prop3 polySurface4
+    2300172: main_motor_prop3 polySurface6
+    2300174: main_motor_prop3 polySurface7
+    2300176: main_motor_prop3 polySurface8
+    2300178: main_motor_prop3 polySurface9
+    2300180: pHelix1 main_motor_prop2_MeshPart0
+    2300182: pHelix1 main_motor_prop2_MeshPart1
+    2300184: pHelix9 main_motor_prop3_MeshPart0
+    2300186: pHelix9 main_motor_prop3_MeshPart1
+    3300000: coil_2_9 main_motor_prop1
+    3300002: done_body
+    3300004: drone_bands
+    3300006: drone_batt_pack
+    3300008: drone_batt_pack_clip
+    3300010: drone_rt_supportlegs leg_right
+    3300012: left_foot_a leg_left
+    3300014: leg_left drone_lt_supportlegs
+    3300016: leg_left left_foot_b
+    3300018: leg_right right_foot_a
+    3300020: leg_right right_foot_b
+    3300022: main_motor_prop1 coil_2_10
+    3300024: main_motor_prop1 coil_2_11
+    3300026: main_motor_prop1 coil_2_12
+    3300028: main_motor_prop1 coil_2_13
+    3300030: main_motor_prop1 coil_2_8
+    3300032: main_motor_prop1 coil_rod
+    3300034: main_motor_prop1 pHelix1_MeshPart0
+    3300036: main_motor_prop1 pHelix1_MeshPart1
+    3300038: main_motor_prop1 pHelix2_MeshPart0
+    3300040: main_motor_prop1 pHelix2_MeshPart1
+    3300042: main_motor_prop1 pHelix3_MeshPart0
+    3300044: main_motor_prop1 pHelix3_MeshPart1
+    3300046: main_motor_prop1 pHelix4_MeshPart0
+    3300048: main_motor_prop1 pHelix4_MeshPart1
+    3300050: main_motor_prop1 pHelix5_MeshPart0
+    3300052: main_motor_prop1 pHelix5_MeshPart1
+    3300054: main_motor_prop1 polySurface1
+    3300056: main_motor_prop1 polySurface2
+    3300058: main_motor_prop1 polySurface4
+    3300060: main_motor_prop1 polySurface6
+    3300062: main_motor_prop2 coil_2_10
+    3300064: main_motor_prop2 coil_2_11
+    3300066: main_motor_prop2 coil_2_12
+    3300068: main_motor_prop2 coil_2_13
+    3300070: main_motor_prop2 coil_2_8
+    3300072: main_motor_prop2 coil_2_9
+    3300074: main_motor_prop2 coil_rod
+    3300076: main_motor_prop2 pHelix2_MeshPart0
+    3300078: main_motor_prop2 pHelix2_MeshPart1
+    3300080: main_motor_prop2 pHelix3_MeshPart0
+    3300082: main_motor_prop2 pHelix3_MeshPart1
+    3300084: main_motor_prop2 pHelix4_MeshPart0
+    3300086: main_motor_prop2 pHelix4_MeshPart1
+    3300088: main_motor_prop2 pHelix5_MeshPart0
+    3300090: main_motor_prop2 pHelix5_MeshPart1
+    3300092: main_motor_prop2 polySurface1
+    3300094: main_motor_prop2 polySurface2
+    3300096: main_motor_prop2 polySurface4
+    3300098: main_motor_prop2 polySurface6
+    3300100: main_motor_prop3 coil_2_10
+    3300102: main_motor_prop3 coil_2_11
+    3300104: main_motor_prop3 coil_2_12
+    3300106: main_motor_prop3 coil_2_13
+    3300108: main_motor_prop3 coil_2_14
+    3300110: main_motor_prop3 coil_2_15
+    3300112: main_motor_prop3 coil_2_16
+    3300114: main_motor_prop3 coil_2_17
+    3300116: main_motor_prop3 coil_2_18
+    3300118: main_motor_prop3 coil_2_19
+    3300120: main_motor_prop3 coil_2_8
+    3300122: main_motor_prop3 coil_2_9
+    3300124: main_motor_prop3 coil_rod
+    3300126: main_motor_prop3 coil_rod1
+    3300128: main_motor_prop3 pHelix10_MeshPart0
+    3300130: main_motor_prop3 pHelix10_MeshPart1
+    3300132: main_motor_prop3 pHelix1_MeshPart0
+    3300134: main_motor_prop3 pHelix1_MeshPart1
+    3300136: main_motor_prop3 pHelix2_MeshPart0
+    3300138: main_motor_prop3 pHelix2_MeshPart1
+    3300140: main_motor_prop3 pHelix3_MeshPart0
+    3300142: main_motor_prop3 pHelix3_MeshPart1
+    3300144: main_motor_prop3 pHelix4_MeshPart0
+    3300146: main_motor_prop3 pHelix4_MeshPart1
+    3300148: main_motor_prop3 pHelix5_MeshPart0
+    3300150: main_motor_prop3 pHelix5_MeshPart1
+    3300152: main_motor_prop3 pHelix6_MeshPart0
+    3300154: main_motor_prop3 pHelix6_MeshPart1
+    3300156: main_motor_prop3 pHelix7_MeshPart0
+    3300158: main_motor_prop3 pHelix7_MeshPart1
+    3300160: main_motor_prop3 pHelix8_MeshPart0
+    3300162: main_motor_prop3 pHelix8_MeshPart1
+    3300164: main_motor_prop3 polySurface1
+    3300166: main_motor_prop3 polySurface10
+    3300168: main_motor_prop3 polySurface2
+    3300170: main_motor_prop3 polySurface4
+    3300172: main_motor_prop3 polySurface6
+    3300174: main_motor_prop3 polySurface7
+    3300176: main_motor_prop3 polySurface8
+    3300178: main_motor_prop3 polySurface9
+    3300180: pHelix1 main_motor_prop2_MeshPart0
+    3300182: pHelix1 main_motor_prop2_MeshPart1
+    3300184: pHelix9 main_motor_prop3_MeshPart0
+    3300186: pHelix9 main_motor_prop3_MeshPart1
+    4300000: main_motor_prop3 pHelix7_MeshPart0
+    4300002: main_motor_prop3 pHelix7_MeshPart1
+    4300004: main_motor_prop1 polySurface2
+    4300006: main_motor_prop3 polySurface1
+    4300008: main_motor_prop1 coil_2_11
+    4300010: main_motor_prop2 coil_2_12
+    4300012: main_motor_prop3 coil_2_18
+    4300014: main_motor_prop3 pHelix2_MeshPart0
+    4300016: main_motor_prop3 pHelix2_MeshPart1
+    4300018: drone_batt_pack
+    4300020: main_motor_prop1 coil_2_10
+    4300022: main_motor_prop3 coil_rod
+    4300024: main_motor_prop2 pHelix3_MeshPart0
+    4300026: main_motor_prop2 pHelix3_MeshPart1
+    4300028: drone_batt_pack_clip
+    4300030: main_motor_prop2 coil_2_11
+    4300032: main_motor_prop1 pHelix5_MeshPart0
+    4300034: main_motor_prop1 pHelix5_MeshPart1
+    4300036: main_motor_prop3 polySurface8
+    4300038: main_motor_prop3 polySurface6
+    4300040: main_motor_prop1 pHelix4_MeshPart0
+    4300042: main_motor_prop1 pHelix4_MeshPart1
+    4300044: main_motor_prop2 pHelix4_MeshPart0
+    4300046: main_motor_prop2 pHelix4_MeshPart1
+    4300048: main_motor_prop3 coil_2_14
+    4300050: main_motor_prop3 pHelix8_MeshPart0
+    4300052: main_motor_prop3 pHelix8_MeshPart1
+    4300054: main_motor_prop1 coil_rod
+    4300056: leg_right right_foot_b
+    4300058: main_motor_prop2 polySurface1
+    4300060: main_motor_prop1 pHelix3_MeshPart0
+    4300062: main_motor_prop1 pHelix3_MeshPart1
+    4300064: main_motor_prop3 coil_2_17
+    4300066: main_motor_prop2 coil_rod
+    4300068: main_motor_prop3 pHelix6_MeshPart0
+    4300070: main_motor_prop3 pHelix6_MeshPart1
+    4300072: main_motor_prop1 coil_2_13
+    4300074: main_motor_prop3 coil_2_13
+    4300076: main_motor_prop1 coil_2_12
+    4300078: pHelix9 main_motor_prop3_MeshPart0
+    4300080: pHelix9 main_motor_prop3_MeshPart1
+    4300082: main_motor_prop1 polySurface1
+    4300084: main_motor_prop3 coil_2_9
+    4300086: main_motor_prop1 coil_2_8
+    4300088: coil_2_9 main_motor_prop1
+    4300090: main_motor_prop3 pHelix5_MeshPart0
+    4300092: main_motor_prop3 pHelix5_MeshPart1
+    4300094: main_motor_prop3 polySurface4
+    4300096: main_motor_prop3 coil_2_8
+    4300098: leg_right right_foot_a
+    4300100: leg_left drone_lt_supportlegs
+    4300102: main_motor_prop3 coil_2_11
+    4300104: main_motor_prop3 coil_2_16
+    4300106: main_motor_prop2 polySurface6
+    4300108: main_motor_prop2 coil_2_9
+    4300110: main_motor_prop3 pHelix4_MeshPart0
+    4300112: main_motor_prop3 pHelix4_MeshPart1
+    4300114: drone_rt_supportlegs leg_right
+    4300116: main_motor_prop1 polySurface6
+    4300118: drone_bands
+    4300120: main_motor_prop1 polySurface4
+    4300122: main_motor_prop3 pHelix10_MeshPart0
+    4300124: main_motor_prop3 pHelix10_MeshPart1
+    4300126: main_motor_prop3 coil_2_15
+    4300128: main_motor_prop1 pHelix1_MeshPart0
+    4300130: main_motor_prop1 pHelix1_MeshPart1
+    4300132: main_motor_prop3 polySurface10
+    4300134: main_motor_prop2 polySurface2
+    4300136: main_motor_prop3 coil_rod1
+    4300138: main_motor_prop3 pHelix1_MeshPart0
+    4300140: main_motor_prop3 pHelix1_MeshPart1
+    4300142: done_body
+    4300144: main_motor_prop2 pHelix2_MeshPart0
+    4300146: main_motor_prop2 pHelix2_MeshPart1
+    4300148: main_motor_prop3 pHelix3_MeshPart0
+    4300150: main_motor_prop3 pHelix3_MeshPart1
+    4300152: leg_left left_foot_b
+    4300154: main_motor_prop2 coil_2_8
+    4300156: main_motor_prop3 polySurface9
+    4300158: main_motor_prop2 coil_2_10
+    4300160: main_motor_prop3 polySurface2
+    4300162: main_motor_prop2 pHelix5_MeshPart0
+    4300164: main_motor_prop2 pHelix5_MeshPart1
+    4300166: main_motor_prop1 pHelix2_MeshPart0
+    4300168: main_motor_prop1 pHelix2_MeshPart1
+    4300170: pHelix1 main_motor_prop2_MeshPart0
+    4300172: pHelix1 main_motor_prop2_MeshPart1
+    4300174: main_motor_prop3 coil_2_10
+    4300176: main_motor_prop2 coil_2_13
+    4300178: main_motor_prop3 coil_2_19
+    4300180: left_foot_a leg_left
+    4300182: main_motor_prop3 coil_2_12
+    4300184: main_motor_prop2 polySurface4
+    4300186: main_motor_prop3 polySurface7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1SG
+    second: {fileID: 2100000, guid: e1eeee4dd86554142af34c30dd2803f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2SG
+    second: {fileID: 2100000, guid: 7468b2a0465757a46b1b409dc759ab6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3SG
+    second: {fileID: 2100000, guid: fd491d07a14ded44395d65c3386de364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 72153d7592c63f64f87951f6b9a62a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2SG
+    second: {fileID: 2100000, guid: 529f723c32b2db241834408dc20dabef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3SG
+    second: {fileID: 2100000, guid: 2a66b7ba3e13d4544aa82831a332a14e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4SG
+    second: {fileID: 2100000, guid: cc5fff217ba42b14abe7141f1191e08a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5SG
+    second: {fileID: 2100000, guid: 3efd0607e34770a4a8eb9f8e11d28463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6SG
+    second: {fileID: 2100000, guid: b6a49658c56225b4ab6160deb61577e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7SG
+    second: {fileID: 2100000, guid: a70ad647fd65dfd44989ed420d07aece, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

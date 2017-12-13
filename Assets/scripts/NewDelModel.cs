@@ -9,22 +9,25 @@ public class NewDelModel : MonoBehaviour
     
     // Use this for initialization
     SpriteRenderer buttonColor;
+
     public bool activ = true;
 
     void OnSelect()
     {
         
-        
-
         if (activ)
         {
-            modelDel.SetActive(false);
+            
+            activ = false;
             GetComponent<SpriteRenderer>().color = Color.red;
+            modelDel.SetActive(false);
         }
         else
         {
-            modelDel.SetActive(true);
+            
+            activ = true;
             GetComponent<SpriteRenderer>().color = Color.blue;
+            modelDel.SetActive(true);
         }
 
     }
